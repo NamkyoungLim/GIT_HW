@@ -5,13 +5,13 @@
 ## This is first practice in GITHUB.
 ## It is really hard to understand...
 --------------------------------------
-***  Hope... Don't be frustrated.... **
+**Hope... Don't be frustrated....**
 --------------------------------------
 ### application test
 
-*** Try again...
+**Try again...**
 
 -------------------------------------
-##Final Test
+## Final Test
 
-** Bye~~
+**Bye~~** 
